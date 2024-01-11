@@ -1,5 +1,17 @@
 # Impact-of-covid-19-in-Nigeria-
 This is a practice project repository . A demo of how to document your data analysis project
+
+### Table of Contents
+
+ 1.[Project Overview](#project-overview)
+ 
+ 2.[Data Sources](#data-sources)
+ 
+ 3.[TOOL](#tool)
+ 
+ 4.[Data Cleaning/Preparation](#data-cleaningpreparation)
+
+ 5.[Exploratory Data Analysis](#exploratory-data-analysis)
 ### Project Overview
 
 The dataset contains records of confimed recent COVID-19 cases.it shows a breakdown of the disease outbreak in all 36 state of Nigeria and FCT.
@@ -27,3 +39,8 @@ EDA involved exploring the impact of covid 19 to answer key question ,such as
 . What is the Total number of confirmed cases 
 . What is the Total number of death cases
 . What is the Total number of states 
+
+
+### Dashboard
+
+Here is the dashboard i created to represent the final story of the dataset
